@@ -1,0 +1,53 @@
+<div class="grid-container">
+  <h2>Máquinas</h2>
+
+  <div class="filtros-container">
+    <input type="text" placeholder="🔍 Buscar por nome da maquina" (input)="atualizarFiltroNome($event)">
+    <select (change)="atualizarFiltroStatus($event)">
+      <option value="">📌 Todos os Status</option>
+      <option value="operando">🟢 Operando</option>
+      <option value="parada">🟡 Parada para manutenção</option>
+      <option value="desligada">🔴 Desligada</option>
+    </select>
+
+    <select #estadoSelect (change)="atualizarFiltroEstado(estadoSelect.value)">
+      <option value="">🌍 Todos os Estados</option>
+      <option *ngFor="let estado of estadosUnicos()" [value]="estado">{{ estado }}</option>
+    </select>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th><img src="assets/icons/maquina.svg" class="icon-header"> Máquina</th>
+        <th><img src="assets/icons/operando.svg" class="icon-header"> Status</th>
+        <th><img src="assets/icons/latitude-longitude.svg" class="icon-header"> Localização inicial</th>
+        <th><img src="assets/icons/latitude-longitude.svg" class="icon-header"> Localização atual</th>
+        <th><img src="assets/icons/detalhes.svg" class="icon-header"> Ver histórico</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let maquina of maquinasFiltradas" [ngClass]="getRowClass(maquina.status)">
+        <td>{{ maquina.nome }}</td>
+        <td>{{ maquina.status }}</td>
+        <td>{{ maquina.localizacao }}</td>
+        <td>{{ maquina.localizacaoAtual }}</td> 
+        <td>
+          <button  class="detalhes"(click)="verDetalhes(maquina.id)">Histórico</button>
+        </td>
+      </tr>
+
+
+    <tr *ngIf="maquinas.length === 0">
+      <td colspan="5" class="sem-dados">Nenhuma máquina encontrada.</td>
+    </tr>
+    </tbody>
+  </table>
+
+
+
+  <div class="button-container">
+    <button class="voltar-home" (click)="voltarParaHome()">Voltar</button>
+    <button class="cadastrar" (click)="irParaCadastro()">+ Cadastrar Nova Máquina</button>
+  </div>
+</div>

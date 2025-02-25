@@ -1,0 +1,145 @@
+.grid-container {
+  max-width: 2000px;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+}
+
+.filtros-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.filtros-container input,
+.filtros-container select {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  width: 100%;
+}
+
+.status-icon {
+  width: 50px;
+  height: 50px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background: #f4f4f4;
+}
+
+th {
+  background: #f4f4f4;
+  align-items: center;
+  gap: 6px;
+  justify-content: left;
+}
+
+.cadastrar {
+  display: block;
+  background: #28a745;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+  width: 100%;
+  border: 3px solid #00771e;
+
+}
+
+
+.icon-header {
+
+  height: 20px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: -5px; 
+}
+
+
+.cadastrar:hover {
+  background: linear-gradient(to right, #41ad2b, #4bbe16);
+  transform: scale(1.01);
+}
+
+.detalhes {
+  background: #007bff;
+  color: white;
+  padding: 6px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.detalhes:hover {
+  background: #0056b3;
+}
+
+.button-container {
+  display: flex;
+  gap: 10px; 
+}
+
+
+.button-container button.cadastrar {
+  width: 100%; 
+}
+
+.voltar-home {
+  background: #f13434;
+  border: 3px solid #500000; 
+  color: #ffffff; 
+  padding: 10px 15px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.3s ease-in-out;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.voltar-home:hover {
+  background: #ee5b5b; 
+  color: white; 
+  transform: translateX(-3px); 
+  box-shadow: -3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.sem-dados {
+  text-align: center;
+  font-weight: bold;
+  color: #000000;
+  padding: 10px;
+}

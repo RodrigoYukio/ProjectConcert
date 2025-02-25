@@ -1,0 +1,14 @@
+.logo-container {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+  }
+  
+  .logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  

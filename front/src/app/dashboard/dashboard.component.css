@@ -1,0 +1,78 @@
+.dashboard-container {
+  max-width: 1200px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.header {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.status-cards {
+  display: flex;
+  justify-content: space-between;
+}
+.card {
+  flex: 1;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 5px;
+  color: white;
+  font-size: 18px;
+}
+.operando { background: #28a745; }
+.desligada { background: #ffc107; }
+.manutencao { background: #dc3545; }
+
+
+.button-container {
+  display: flex;
+  justify-content: center; 
+  margin-top: 20px; 
+  gap: 10px; 
+}
+.voltar-home {
+  background: #f4f4f4; 
+  border: 2px solid #ff3131; 
+  color: #ff0000; 
+  padding: 8px 15px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.3s ease-in-out;
+}
+
+.voltar-home:hover {
+  background: #ff5252; 
+  color: white; 
+  transform: translateX(-3px);
+  box-shadow: -3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+button.grid {
+  width: 100%;
+  padding: 14px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background: linear-gradient(to right, #007bff, #0056b3);
+  color: white;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+  transition: 0.3s ease-in-out;
+}
+
+button.grid:hover {
+  background: linear-gradient(to right, #0056b3, #004494);
+  transform: scale(1.01);
+}

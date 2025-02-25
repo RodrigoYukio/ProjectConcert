@@ -1,0 +1,15 @@
+<div class="dashboard-container">
+    <div class="header">📊 DASHBOARD - CONTROLE DE MÁQUINAS</div>
+  
+    <div class="status-cards">
+        <div class="card operando">Operando<br><span>{{ maquinasOperando }}/{{ totalMaquinas }}</span></div>
+        <div class="card desligada">Desligadas<br><span>{{ maquinasDesligadas}}/{{ totalMaquinas }}</span></div>
+        <div class="card manutencao">Paradas para Manutenção<br><span>{{ maquinasParadaEmManutencao }}/{{ totalMaquinas }}</span></div>
+    </div>
+
+    <div class="button-container">
+        <button class="voltar-home" (click)="voltarParaHome()">Voltar</button>
+        <button class="grid" (click)="irParaGrid()">Ver máquinas</button>
+    </div>
+  </div>
+  

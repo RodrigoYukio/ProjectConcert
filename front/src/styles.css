@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
+
+.home-button {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  padding: 10px 15px;
+  font-size: 16px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.home-button:hover {
+  background-color: #218838;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Merriweather', serif;
+  font-weight: 700; /* Negrito */
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  font-weight: 300; /* Mais leve para leitura */
+}

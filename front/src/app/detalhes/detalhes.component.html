@@ -1,0 +1,44 @@
+<div class="modal-overlay" (click)="fecharModal()">
+    <div class="modal-content" (click)="$event.stopPropagation()">
+      <h2>Detalhes da Máquina</h2>
+  
+      <div class="info-container">
+        <div class="info-box">
+          <strong>Nome:</strong> <span>{{ dadosMaquina?.nome }}</span>
+        </div>
+        <div class="info-box">
+          <strong>Status:</strong>
+          <span>{{ dadosMaquina?.status }}</span>
+        </div>
+        <div class="info-box">
+          <strong>Localização Inicial:</strong> <span>{{ dadosMaquina?.localizacao }}</span>
+        </div>
+      </div>
+  
+
+      <button class="seta-expandir" (click)="carregarHistorico()">
+        <img src="/assets/icons/seta-down.svg" [class.rotated]="mostrarHistorico">
+      </button>
+  
+      <div class="historico-container" *ngIf="mostrarHistorico">
+        <div *ngFor="let historico of historicoTelemetria" class="historico-item">
+          <span class="historico-icon"><img src="/assets/icons/historico.svg"></span>
+          <div class="historico-text">
+            <span class="historico-local">{{ historico.local }}</span>
+            <span class="historico-data">{{ historico.dataHora }}</span>
+          </div>
+        </div>
+      </div>
+  
+      <button class="rota" (click)="exibirMapa()">🗺️ Ver Rotas</button>
+      <button class="fechar" (click)="fecharModal()">Voltar</button>
+    </div>
+</div>
+
+<div class="modal-overlay" *ngIf="exibirModalMapa" (click)="fecharMapa()">
+  <div class="modal-content" (click)="$event.stopPropagation()">
+    <h2>Rota da Máquina</h2>
+    <p>Infelizmente não finalizei!</p>
+    <button class="fechar" (click)="fecharMapa()">Fechar</button>
+  </div>
+</div>
