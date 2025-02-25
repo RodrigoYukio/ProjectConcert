@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|c:\\users\\rodrigo\\source\\repos\\concertproject\\concertproject\\controllers\\maquinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|solutionrelative:concertproject\\controllers\\maquinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|c:\\users\\rodrigo\\source\\repos\\concertproject\\concertproject\\models\\telemetria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|solutionrelative:concertproject\\models\\telemetria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|c:\\users\\rodrigo\\source\\repos\\concertproject\\concertproject\\models\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|solutionrelative:concertproject\\models\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|c:\\users\\rodrigo\\source\\repos\\concertproject\\concertproject\\migrations\\20250221135819_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|solutionrelative:concertproject\\migrations\\20250221135819_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|c:\\users\\rodrigo\\source\\repos\\concertproject\\concertproject\\hubs\\telemetriahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|solutionrelative:concertproject\\hubs\\telemetriahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|c:\\users\\rodrigo\\source\\repos\\concertproject\\concertproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|solutionrelative:concertproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|c:\\users\\rodrigo\\source\\repos\\concertproject\\concertproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|solutionrelative:concertproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|c:\\users\\rodrigo\\source\\repos\\concertproject\\concertproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|solutionrelative:concertproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|c:\\users\\rodrigo\\source\\repos\\concertproject\\concertproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|solutionrelative:concertproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|c:\\users\\rodrigo\\source\\repos\\concertproject\\concertproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|solutionrelative:concertproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|c:\\users\\rodrigo\\source\\repos\\concertproject\\concertproject\\services\\simuladortelemetriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|solutionrelative:concertproject\\services\\simuladortelemetriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|c:\\users\\rodrigo\\source\\repos\\concertproject\\concertproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E8723FC-203E-4F40-8BD9-2F4A2599330A}|ConcertProject\\ConcertProject.csproj|solutionrelative:concertproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250221135819_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Migrations\\20250221135819_Inicial.cs",
+              "RelativeDocumentMoniker": "ConcertProject\\Migrations\\20250221135819_Inicial.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Migrations\\20250221135819_Inicial.cs",
+              "RelativeToolTip": "ConcertProject\\Migrations\\20250221135819_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:17:35.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ConcertProject\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\appsettings.Development.json",
+              "RelativeToolTip": "ConcertProject\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T13:22:51.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ConcertProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\appsettings.json",
+              "RelativeToolTip": "ConcertProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T13:12:45.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Program.cs",
+              "RelativeDocumentMoniker": "ConcertProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Program.cs",
+              "RelativeToolTip": "ConcertProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:11:59.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaquinasController.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Controllers\\MaquinasController.cs",
+              "RelativeDocumentMoniker": "ConcertProject\\Controllers\\MaquinasController.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Controllers\\MaquinasController.cs",
+              "RelativeToolTip": "ConcertProject\\Controllers\\MaquinasController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:57:44.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Telemetria.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Models\\Telemetria.cs",
+              "RelativeDocumentMoniker": "ConcertProject\\Models\\Telemetria.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Models\\Telemetria.cs",
+              "RelativeToolTip": "ConcertProject\\Models\\Telemetria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:37:09.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ConcertProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ConcertProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:17:40.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConcertProject\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ConcertProject\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:56:30.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelemetriaHub.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Hubs\\TelemetriaHub.cs",
+              "RelativeDocumentMoniker": "ConcertProject\\Hubs\\TelemetriaHub.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Hubs\\TelemetriaHub.cs",
+              "RelativeToolTip": "ConcertProject\\Hubs\\TelemetriaHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:54:05.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maquina.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Models\\Maquina.cs",
+              "RelativeDocumentMoniker": "ConcertProject\\Models\\Maquina.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Models\\Maquina.cs",
+              "RelativeToolTip": "ConcertProject\\Models\\Maquina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:53:07.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimuladorTelemetriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Services\\SimuladorTelemetriaService.cs",
+              "RelativeDocumentMoniker": "ConcertProject\\Services\\SimuladorTelemetriaService.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Services\\SimuladorTelemetriaService.cs",
+              "RelativeToolTip": "ConcertProject\\Services\\SimuladorTelemetriaService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:40:49.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ConcertProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rodrigo\\source\\repos\\ConcertProject\\ConcertProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ConcertProject\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T13:13:00.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
